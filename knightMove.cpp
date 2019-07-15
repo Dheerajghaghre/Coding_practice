@@ -1,6 +1,7 @@
 #include<iostream>
 #include<conio.h>
 using namespace std;
+
 bool moves(int x,int y, int mat [][8], int ith)
 {
     int mat1[8][8];
